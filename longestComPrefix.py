@@ -6,4 +6,4 @@ def longestCommonPrefix(self, strs) -> str: #returns a string
             else:
                 return lcp
         return lcp
-            
+           
