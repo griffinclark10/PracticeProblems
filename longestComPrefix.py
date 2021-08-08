@@ -1,3 +1,5 @@
+#taken from the comments section of leetcode:
+
 def longestCommonPrefix(self, strs) -> str: #returns a string
         lcp = "" #in case none match
         for row in zip(*strs): #join each string in strs by their characters
