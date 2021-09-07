@@ -1,0 +1,17 @@
+#Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 
+# 32-bit integer range [-231, 231 - 1], then return 0.
+# Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+
+def reverseInteger(integer):
+    reversed = 0
+    while integer > 0:
+        remainder = integer % 10
+        reversed = reversed*10 + remainder
+        integer // 10
+    return reversed
+        
+
+integer = 12
+reverseInteger(integer)
+
+
