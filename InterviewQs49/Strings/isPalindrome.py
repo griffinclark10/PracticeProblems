@@ -13,4 +13,4 @@ def isPalindrome(s):
 
 #testing
 s = "I // HaveSo MucHHHH to !! do. )(*&^%$#"
-isPalindrome(s)
+print(isPalindrome(s))
