@@ -8,3 +8,7 @@
 # Write an efficient algorithm for the following assumptions:
 # 	•	the length of S is within the range [1..100,000];
 # 	•	string S consists only of lowercase letters (a−z).
+
+
+def solutuon(S):
+    pass

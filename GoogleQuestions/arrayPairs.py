@@ -13,3 +13,8 @@
 # 	•	N is an integer within the range [2..50];
 # 	•	each element of array A is an integer within the range [1..1,000].
 # In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+
+
+def arrayPairs(array):
+    pass
+

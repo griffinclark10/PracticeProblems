@@ -24,3 +24,6 @@
 # 	•	the sum of the elements of array A does not exceed 100,000
 
 # In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+
+def serverLoad(arr):
+    pass

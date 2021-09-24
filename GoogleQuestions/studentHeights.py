@@ -33,7 +33,11 @@
 
 # Assume that:
 
-# 	•	N is an integer within the range [1..1,000] 
-# 	•	each element of array A is an integer within the range [1..10,000] 
+# 	•	N is an integer within the range [1..1,000]
+# 	•	each element of array A is an integer within the range [1..10,000]
 
 # In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment
+
+
+def heighArr(array):
+    pass
