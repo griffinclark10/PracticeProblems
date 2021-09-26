@@ -16,5 +16,6 @@
 
 
 def arrayPairs(array):
-    pass
+    print("i")
+    return
 
