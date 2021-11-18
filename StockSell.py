@@ -6,3 +6,5 @@ prices = [2,5,4,8,6,3,1,4,7]
 answer = 13
 
 print(stockSell(prices) == answer)
+
+#testing changes
