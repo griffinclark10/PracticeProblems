@@ -1,0 +1,19 @@
+def isValidParen(s):
+    d = {
+        '(':')',
+        '[':']',
+        '{':'}'
+    }
+    i = 0
+    sp = [char for char in s]
+    #print(sp)
+    for i, val in enumerate(sp):
+        print(sp[i+1], "\t", d[val])
+    #     if sp[i+1] != d[val]:
+    #         return False
+    # return True
+
+
+s = "()[)"
+print(isValidParen(s))
+        
